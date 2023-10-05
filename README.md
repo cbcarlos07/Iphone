@@ -13,3 +13,4 @@ Repodutor Musicial: tocar, pausar, selecionarMusica
 Aparelho Telefônico: ligar, atender, iniciarCorrerioVoz
 Navegador na Internet: exibirPagina, adicionarNovaAba, atualizarPagina 
 
+![Alt text](https://github.com/cbcarlos07/Iphone/blob/master/diagrama-iphone.png)
